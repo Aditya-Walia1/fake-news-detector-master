@@ -20,6 +20,8 @@
 
 The Fake News Detector API leverages the power of **DistilBERT** (a distilled version of BERT) to analyze news headlines and articles, providing real-time classification with high accuracy. Built with modern web technologies and deployed on cloud infrastructure for seamless accessibility.
 
+![Fake News Detector Demo](https://raw.githubusercontent.com/Aditya-Walia1/fake-news-detector-master/main/Screenshot%202025-07-10%20170227.png)
+
 ### ✨ Key Highlights
 - 🧠 **Advanced NLP**: Powered by Hugging Face's DistilBERT transformer model
 - ⚡ **Lightning Fast**: Optimized for quick inference and real-time predictions
